@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d04070ce.chunk.css",
+    "main.js": "/static/js/main.34a73c9b.chunk.js",
+    "main.js.map": "/static/js/main.34a73c9b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6159deb1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6159deb1.js.map",
+    "static/css/2.3e054ca7.chunk.css": "/static/css/2.3e054ca7.chunk.css",
+    "static/js/2.00bfe75c.chunk.js": "/static/js/2.00bfe75c.chunk.js",
+    "static/js/2.00bfe75c.chunk.js.map": "/static/js/2.00bfe75c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3e054ca7.chunk.css.map": "/static/css/2.3e054ca7.chunk.css.map",
+    "static/css/main.d04070ce.chunk.css.map": "/static/css/main.d04070ce.chunk.css.map",
+    "static/js/2.00bfe75c.chunk.js.LICENSE.txt": "/static/js/2.00bfe75c.chunk.js.LICENSE.txt",
+    "static/media/1.3956a0a3.png": "/static/media/1.3956a0a3.png",
+    "static/media/2.4013b54b.png": "/static/media/2.4013b54b.png",
+    "static/media/3.b8d8fc3b.png": "/static/media/3.b8d8fc3b.png",
+    "static/media/4.6b006ad2.png": "/static/media/4.6b006ad2.png",
+    "static/media/5.cabfcc9d.png": "/static/media/5.cabfcc9d.png",
+    "static/media/chat.c91abe84.png": "/static/media/chat.c91abe84.png",
+    "static/media/kattaImage.7955d91e.png": "/static/media/kattaImage.7955d91e.png",
+    "static/media/login.781c2799.png": "/static/media/login.781c2799.png",
+    "static/media/moto.83f09138.png": "/static/media/moto.83f09138.png",
+    "static/media/rek.1650f777.png": "/static/media/rek.1650f777.png",
+    "static/media/slider1.481bf316.png": "/static/media/slider1.481bf316.png",
+    "static/media/slider2.884e6334.png": "/static/media/slider2.884e6334.png",
+    "static/media/slider3.9458e421.png": "/static/media/slider3.9458e421.png",
+    "static/media/top1.d47ad922.png": "/static/media/top1.d47ad922.png",
+    "static/media/top2.3cb1e822.png": "/static/media/top2.3cb1e822.png",
+    "static/media/top3.6ee8ea44.png": "/static/media/top3.6ee8ea44.png",
+    "static/media/top4.9cab37b9.png": "/static/media/top4.9cab37b9.png",
+    "static/media/velo.5b6a0173.png": "/static/media/velo.5b6a0173.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6159deb1.js",
+    "static/css/2.3e054ca7.chunk.css",
+    "static/js/2.00bfe75c.chunk.js",
+    "static/css/main.d04070ce.chunk.css",
+    "static/js/main.34a73c9b.chunk.js"
+  ]
+}
